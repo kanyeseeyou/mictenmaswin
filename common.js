@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://wosottefot.top";
+		var url="";
 		window.location=url;
 	}
 }
@@ -13,5 +13,6 @@ function getLoad()
 	num++;
 
 }
+
 
 
